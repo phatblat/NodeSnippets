@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/phatblat/NodeSnippets/issues"
   },
-  "homepage": "https://github.com/phatblat/NodeSnippets#readme"
+  "homepage": "https://github.com/phatblat/NodeSnippets#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
