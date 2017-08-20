@@ -1,0 +1,23 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "Simple server app using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phatblat/NodeSnippets.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Ben Chatelain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phatblat/NodeSnippets/issues"
+  },
+  "homepage": "https://github.com/phatblat/NodeSnippets#readme"
+}
